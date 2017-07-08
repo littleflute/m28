@@ -1,0 +1,15 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 That L.A. Sunshine.mp3";		
+f[2]	= "03 It's Our Right-Funky Tonk.mp3";		
+f[3]	= "04 Just Like Us.mp3";		
+f[4]	= "06 Scream Stream.mp3";		
+f[5]	= "07 This Funky Music.mp3";		
+f[6]	= "08 Outer Space.mp3";		
+f[7]	= "09 War-War After War (A Soldier's Story).mp3";		
+f[8]	= "12 It's My Life.mp3";		
+f[9]	= "13 That L.A. Sunshine [-].mp3";		
+f[10]	= "Bounce.mp3";		
+f[11]	= "Everything.mp3";		
+f[12]	= "Inspiration.mp3";		
+f[13]	= "Mamacita.mp3";		
