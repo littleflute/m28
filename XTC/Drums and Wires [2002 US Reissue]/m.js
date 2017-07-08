@@ -1,0 +1,17 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Making Plans for Nigel.mp3";		
+f[2]	= "03 Day In, Day Out.mp3";		
+f[3]	= "04 When You're Near Me I Have Difficulty.mp3";		
+f[4]	= "05 Ten Feet Tall.mp3";		
+f[5]	= "06 Roads Girdle the Globe.mp3";		
+f[6]	= "07 Real by Reel.mp3";		
+f[7]	= "09 That Is the Way.mp3";		
+f[8]	= "10 Outside World.mp3";		
+f[9]	= "11 Scissor Man.mp3";		
+f[10]	= "12 Complicated Game.mp3";		
+f[11]	= "13 Life Begins at the Hop.mp3";		
+f[12]	= "14 Chain of Command.mp3";		
+f[13]	= "Helicopter.mp3";		
+f[14]	= "Limelight.mp3";		
+f[15]	= "Millions.mp3";		
