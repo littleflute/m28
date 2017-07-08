@@ -1,0 +1,12 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 All Day Music.mp3";		
+f[2]	= "02 Slippin' Into Darkness.mp3";		
+f[3]	= "03 The World Is a Ghetto.mp3";		
+f[4]	= "04 The Cisco Kid.mp3";		
+f[5]	= "05 Gypsy Man.mp3";		
+f[6]	= "06 Me and Baby Brother.mp3";		
+f[7]	= "07 Southern Part of Texas.mp3";		
+f[8]	= "08 Why Can't We Be Friends-.mp3";		
+f[9]	= "09 Low Rider.mp3";		
+f[10]	= "Summer.mp3";		
