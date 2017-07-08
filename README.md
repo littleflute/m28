@@ -1,4 +1,4 @@
-[v0.0.6](https://github.com/littleflute/m28/edit/master/README.md)
+[v0.0.7](https://github.com/littleflute/m28/edit/master/README.md)
 
 [XTC/Drums and Wires (2002 US Reissue)](XTC/Drums and Wires [2002 US Reissue])
 
@@ -12,3 +12,6 @@
 
 [war/Evolutionary Disc 2](war/Evolutionary Disc 2)
 
+[war/The Very Best of War Disc 1](war/The Very Best of War Disc 1)
+
+[war/The Very Best of War Disc 2](war/The Very Best of War Disc 2)
